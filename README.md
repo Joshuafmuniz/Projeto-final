@@ -69,42 +69,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - ViteJS
 - Sweetalert2
 
-<h2 id="usage">💡 Utilização</h2>
-
-A aplicação Food Explorer está disponível para uso [aqui](https://food-explorer-mth.netlify.app/).
-
-Você também pode executá-la em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
-
-1. Clone o projeto:
-
-```
-$ git clone https://github.com/mthflashice/food-explorer-frontend
-```
-
-2. Acesse a pasta do projeto:
-
-```
-$ cd food-explorer-frontend
-```
-
-3. Instale as dependências:
-
-```
-$ npm install
-```
-
-4. Inicie o servidor:
-
-```
-$ npm run dev
-```
-
-📺 Vídeo explicativo
-Você pode acessar o vídeo do projeto através do link: [aqui](https://www.youtube.com/watch?v=8TQf0nmtNWs&ab_channel=MatheusQuirinoLeite) ⏯
-
-⚠️ **Importante**: Este projeto utiliza uma hospedagem gratuita para o back-end, portanto, pode haver atrasos no tempo de resposta do servidor.
-
-<h2 id="users">👨‍👩‍👧‍👦  Personas</h2>
 
 O Food Explorer possui duas personas principais: o admin e o usuário. Você pode criar um novo usuário ou testar a aplicação usando as seguintes informações de login:
 
